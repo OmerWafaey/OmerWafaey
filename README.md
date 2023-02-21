@@ -1,7 +1,8 @@
 <div align="center">
-<img src="https://user-images.githubusercontent.com/88760648/160058600-4c115037-2160-4240-bfa4-c2f5054d1cb3.gif" align="center" style="width: 100%" />
+<img src="https://octodex.github.com/images/NUX_Octodex.gif" align="center" style="width: 100%" />
 </div>  
   
+
 
 ### <div align="center">My name is Omar, I'm Data Analysist 📊.</div>  
   
