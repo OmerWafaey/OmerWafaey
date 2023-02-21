@@ -1,4 +1,6 @@
-<p align="center"> <img src="[https://octodex.github.com/images/NUX_Octodex.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fmohammadruman&psig=AOvVaw3L7KhcEc6teP-APK6RJpHf&ust=1677087851242000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCNjc0KCVp_0CFQAAAAAdAAAAABAY)"/> </p>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/88760648/160058600-4c115037-2160-4240-bfa4-c2f5054d1cb3.gif" align="center" style="width: 100%" />
+</div>  
   
 
 ### <div align="center">My name is Omar, I'm Data Analysist 📊.</div>  
