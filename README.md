@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://octodex.github.com/images/NUX_Octodex.gif" align="center" style="width: 100%" />
+<img src="[https://octodex.github.com/images/NUX_Octodex.gif" align="center" style="width: 100%](https://octodex.github.com/images/NUX_Octodex.gif)" />
 </div>  
   
 
