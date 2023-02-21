@@ -1,6 +1,4 @@
-<div align="center">
-<img src="[https://octodex.github.com/images/NUX_Octodex.gif" align="center" style="width: 100%](https://octodex.github.com/images/NUX_Octodex.gif)" />
-</div>  
+<p align="center"> <img src="https://octodex.github.com/images/NUX_Octodex.gif"/> </p>
   
 
 ### <div align="center">My name is Omar, I'm Data Analysist 📊.</div>  
