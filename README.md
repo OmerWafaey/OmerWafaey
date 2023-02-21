@@ -1,9 +1,6 @@
 <div align="center">
-<img src="https://octodex.github.com/images/daftpunktocat-guy.gif" align="center" style="width: 100%" />
+<img src="https://cdn.dribbble.com/users/420183/screenshots/2875637/octocat_github.gif" align="center" style="width: 100%" />
 </div>  
-
-
-
 ### <div align="center">My name is Omar, I'm Data Analysist 📊.</div>  
   
 
