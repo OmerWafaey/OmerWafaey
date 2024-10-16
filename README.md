@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://i.makeagif.com/media/3-03-2023/78wWsF.gif" alt="Colored Strings Infinity Sign">
+    <img src="https://i.makeagif.com/media/3-03-2023/78wWsF.gif" alt="Colored Strings Infinity Sign](https://dribbble.com/shots/1575393-Infinity/attachments/8881592?mode=media">
 </div>
 
 **My name is Omar, I'm specializing in DevOps and Automation 🚀.**
