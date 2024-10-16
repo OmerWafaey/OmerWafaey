@@ -1,4 +1,4 @@
-##
+#
 
 ## <div align="center">
 <strong style="font-size: 24px;">My name is Omar, I'm specializing in DevOps and Automation 🚀.</strong>
