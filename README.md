@@ -35,12 +35,12 @@ The NTI DevOps and Automation track is a 4-month program I am currently enrolled
   <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="Linux" height="50" /></a>  
   <a href="https://www.ansible.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/2/24/Ansible_logo.svg" alt="Ansible" height="50" /></a>  
   <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" alt="Docker" height="50" /></a>  
-  <a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo.svg" alt="Kubernetes" height="50" /></a>  
+  <a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/1234px-Kubernetes_logo_without_workmark.svg.png" alt="Kubernetes" height="50" /></a>  
   <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" height="50" /></a>  
   <a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" alt="Git" height="50" /></a>  
   <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" height="50" /></a>  
-  <a href="https://www.terraform.io/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/0/04/Terraform_Logo_512px.png" alt="Terraform" height="50" /></a>  
-  <a href="https://en.wikipedia.org/wiki/Bash_(Unix)" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/3/35/Bash_logo.svg" alt="Bash" height="50" /></a>  
+  <a href="https://www.terraform.io/" target="_blank"><img style="margin: 10px" src="https://iconduck.com/icons/158892/terraform" alt="Terraform" height="50" /></a>  
+  <a href="https://en.wikipedia.org/wiki/Bash_(Unix)" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Bash_logo.svg/1024px-Bash_logo.svg.png" alt="Bash" height="50" /></a>  
 </div>
 
 
