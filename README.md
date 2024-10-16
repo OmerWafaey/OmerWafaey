@@ -1,7 +1,8 @@
 <div align="center">
-<img src="https://cdn.dribbble.com/users/420183/screenshots/2875637/octocat_github.gif" align="center" style="width: 100%" />
+<img src="https://cdn.dribbble.com/users/1075410/screenshots/14743052/media/28f97d88d85ef88cc9278d2f81e9d3d1.gif" align="center" style="width: 100%" />
 </div>  
-### <div align="center"> My name is Omar, I'm specializing in DevOps and Automation 🚀.</div>  
+
+<h1 style="font-size: 36px; font-family: Arial, sans-serif; color: #ffcc00; text-align: center;">My name is Omar, I'm specializing in DevOps and Automation 🚀.</h1>  
 
 - 🔭 I’m currently working with [AWS, Linux, Ansible, Docker, Terraform, and CI/CD].  
 - 🌱 I’m currently learning advanced automation techniques.  
@@ -84,6 +85,3 @@ The NTI DevOps and Automation track is a 4-month program I am currently enrolled
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=OmerWafaey&&style=flat-square" align="center" />
 </div>  
-  
-
-<br/>  
