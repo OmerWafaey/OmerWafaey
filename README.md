@@ -1,14 +1,14 @@
 <div align="center">
-<img src="https://cdn.dribbble.com/users/1075410/screenshots/14743052/media/28f97d88d85ef88cc9278d2f81e9d3d1.gif" align="center" style="width: 100%" />
-</div>  
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/DevOps_infinity_loop.svg/1200px-DevOps_infinity_loop.svg.png" align="center" style="width: 50%;" />
+</div>
 
-<h1 style="font-size: 36px; font-family: Arial, sans-serif; color: #ffcc00; text-align: center;">My name is Omar, I'm specializing in DevOps and Automation 🚀.</h1>  
+**My name is Omar, I'm specializing in DevOps and Automation 🚀.**
 
-- 🔭 I’m currently working with [AWS, Linux, Ansible, Docker, Terraform, and CI/CD].  
+- 🔭 I’m currently working with **AWS, Linux, Ansible, Docker, Terraform, and CI/CD**.  
 - 🌱 I’m currently learning advanced automation techniques.  
-- ❓ Ask me about anything related to DevOps, cloud infrastructure, and automation tools.  
-📫 How to reach me: omerwafaey@gmail.com  
-- ⚡ Fun fact: I love playing around with technology and exploring new tools and frameworks.  
+- ❓ Ask me about anything related to **DevOps, cloud infrastructure, and automation tools**.  
+- 📫 How to reach me: **omerwafaey@gmail.com**  
+- ⚡ Fun fact: I love playing around with **technology** and exploring **new tools and frameworks**.  
 
 <br/>  
 
