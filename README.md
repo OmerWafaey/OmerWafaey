@@ -1,7 +1,8 @@
 ##
+
 ## <div align="center">
-## <strong style="font-size: 24px;">My name is Omar, I'm specializing in DevOps and Automation 🚀.</strong>
-## </div>
+<strong style="font-size: 24px;">My name is Omar, I'm specializing in DevOps and Automation 🚀.</strong>
+</div>
 
 ##
 
@@ -14,6 +15,7 @@
 - ❓ Ask me about anything related to **DevOps, cloud infrastructure, and automation tools**.  
 - 📫 How to reach me: **omerwafaey@gmail.com**.  
 - ⚡ Fun fact: I love playing around with **technology** and exploring **new tools and frameworks**.
+
 
 
 
