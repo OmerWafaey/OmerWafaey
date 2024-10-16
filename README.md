@@ -39,7 +39,7 @@ The NTI DevOps and Automation track is a 4-month program I am currently enrolled
   <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" height="50" /></a>  
   <a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" alt="Git" height="50" /></a>  
   <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" height="50" /></a>  
- <a href="https://www.terraform.io/" target="_blank"><img style="margin: 10px" src="https://www.terraform.io/assets/images/terraform_logo.svg" alt="Terraform" height="50" /></a>  
+  <a href="https://www.terraform.io/" target="_blank"><img style="margin: 10px" src="https://iconduck.com/icons/158892/terraform" alt="Terraform" height="50" /></a>  
   <a href="https://en.wikipedia.org/wiki/Bash_(Unix)" target="_blank"><img style="margin: 10px" src="https://www.gnu.org/software/bash/images/bash-logo.png" alt="Bash" height="50" /></a>    
 </div>
 
