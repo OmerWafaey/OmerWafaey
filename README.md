@@ -1,5 +1,10 @@
 <div align="center">
-    <lottie-player src="https://assets4.lottiefiles.com/packages/lf20_4m2d7n3u.json" background="transparent" speed="1" style="width: 300px; height: 300px;" loop autoplay></lottie-player>
+    <lottie-player src="https://assets4.lottiefiles.com/packages/lf20_4m2d7n3u.json" 
+        background="transparent" 
+        speed="1" 
+        style="width: 300px; height: 300px;" 
+        loop 
+        autoplay></lottie-player>
 </div>
 
 **My name is Omar, I'm specializing in DevOps and Automation 🚀.**
@@ -7,7 +12,7 @@
 - 🔭 I’m currently working with **AWS, Linux, Ansible, Docker, Terraform, and CI/CD**.  
 - 🌱 I’m currently learning advanced automation techniques.  
 - ❓ Ask me about anything related to **DevOps, cloud infrastructure, and automation tools**.  
-- 📫 How to reach me: **omerwafaey@gmail.com**  
+- 📫 How to reach me: **omerwafaey@gmail.com**.  
 - ⚡ Fun fact: I love playing around with **technology** and exploring **new tools and frameworks**.  
 
 <br/>  
