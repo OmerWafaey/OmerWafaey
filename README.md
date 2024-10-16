@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning advanced automation techniques.  
 - ❓ Ask me about anything related to DevOps, cloud infrastructure, and automation tools.  
 📫 How to reach me: omerwafaey@gmail.com  
-- ⚡ Fun fact: I love E-sports.  
+- ⚡ Fun fact: I love playing around with technology and exploring new tools and frameworks.  
 
 <br/>  
 
@@ -38,41 +38,46 @@ The NTI DevOps and Automation track is a 4-month program I am currently enrolled
 
 <br/>  
 
-## Connect with me  
+## Connect with Me  
 <div align="center">
 <a href="https://github.com/OmerWafaey" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/github-%2324292e.svg?&style=flat&logo=github&logoColor=white" alt="GitHub" style="margin: 5px;" />
 </a>
 <a href="https://twitter.com/OmerWafaey" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=flat&logo=twitter&logoColor=white" alt="Twitter" style="margin: 5px;" />
 </a>
 <a href="https://linkedin.com/in/omar-wafaey-087b42205/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin: 5px;" />
 </a>
 <a href="https://www.kaggle.com/omerwafaey" target="_blank">
-<img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=flat&logo=kaggle&logoColor=white" alt="Kaggle" style="margin: 5px;" />
 </a>
 <a href="https://www.instagram.com/0marwafaey/" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=flat&logo=instagram&logoColor=white" alt="Instagram" style="margin: 5px;" />
 </a>
 <a href="https://www.facebook.com/@omarwafaey" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/facebook-%232E87FB.svg?&style=flat&logo=facebook&logoColor=white" alt="Facebook" style="margin: 5px;" />
 </a>  
 </div>  
 
 <br/>  
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=OmerWafaey&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=OmerWafaey&show_icons=true&hide_border=true&bg_color=00000000&text_color=ffffff&title_color=ffcc00&icon_color=ffcc00" alt="Omar's GitHub Stats" />
+</div>  
 
 <br/>  
 
 ## Recent Blog Posts  
-  
-
-<br/>  
-
-  
+<div align="center">
+<p style="font-size: 18px; color: #ffcc00; margin-bottom: 10px;">Check out my latest blog posts:</p>
+<ul style="list-style-type: none;">
+  <li><a href="#" target="_blank">Understanding CI/CD Pipelines in DevOps</a></li>
+  <li><a href="#" target="_blank">Getting Started with Docker</a></li>
+  <li><a href="#" target="_blank">Ansible: The Future of Automation</a></li>
+</ul>
+</div>
 
 <br/>  
 
@@ -82,9 +87,3 @@ The NTI DevOps and Automation track is a 4-month program I am currently enrolled
   
 
 <br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
