@@ -2,25 +2,14 @@
 <img src="https://cdn.dribbble.com/users/420183/screenshots/2875637/octocat_github.gif" align="center" style="width: 100%" />
 </div>  
 ### <div align="center">My name is Omar, I'm specializing in DevOps and Automation 🚀.</div>  
-  
 
 - 🔭 I’m currently working with [AWS, Linux, Ansible, Docker, Terraform, and CI/CD].  
-  
-
 - 🌱 I’m currently learning advanced automation techniques.  
-  
-
 - ❓ Ask me about anything related to DevOps, cloud infrastructure, and automation tools.  
-  
-
 📫 How to reach me: omerwafaey@gmail.com  
-  
-
 - ⚡ Fun fact: I love E-sports.  
-  
 
 <br/>  
-
 
 ## My Skill Set  
 <table><tr><td valign="top" width="50%">
@@ -28,7 +17,7 @@
 <div align="center">  
 <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" height="50" /></a>  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="Linux" height="50" /></a>  
-<a href="https://www.ansible.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/Ansible_logo.svg" alt="Ansible" height="50" /></a>  
+<a href="https://www.ansible.com/" target="_blank"><img style="margin: 10px" src="https://www.ansible.com/hubfs/ansible-logo-white-800.png" alt="Ansible" height="50" /></a>  
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png" alt="Docker" height="50" /></a>  
 <a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo.svg" alt="Kubernetes" height="50" /></a>  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" height="50" /></a>  
@@ -41,7 +30,6 @@
 </td></tr></table>  
 
 <br/>  
-
 
 ## Connect with me  
 <div align="center">
@@ -64,16 +52,13 @@
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
 
 <br/>  
-
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=OmerWafaey&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
-
 
 ## Recent Blog Posts  
   
