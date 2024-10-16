@@ -11,6 +11,13 @@
 
 <br/>  
 
+## About Me
+I am focused on creating efficient and scalable solutions that drive business growth through technology. My skills include working with cloud infrastructure, scripting, and automation tools. I have hands-on experience in implementing CI/CD pipelines for seamless integration and delivery. I thrive in environments that value automation, agility, and customer-centric solutions, helping optimize workflows and enhance productivity.
+
+The NTI DevOps and Automation track is a 4-month program I am currently enrolled in, focusing on tools like Ansible, Docker, AWS, Linux, Bash scripting, Terraform, Python, Agile, and CI/CD. This program provides hands-on experience in automating processes and managing cloud environments, preparing me for a successful career in DevOps.
+
+<br/>  
+
 ## My Skill Set  
 <table><tr><td valign="top" width="50%">
 
