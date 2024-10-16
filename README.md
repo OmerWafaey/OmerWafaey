@@ -1,10 +1,6 @@
 <div align="center">
-    <lottie-player src="https://assets4.lottiefiles.com/packages/lf20_4m2d7n3u.json" 
-        background="transparent" 
-        speed="1" 
-        style="width: 300px; height: 300px;" 
-        loop 
-        autoplay></lottie-player>
+    <img src="https://media.makeagif.com/media/10-10-2016/colored-strings-infinity-sign-free-infinite-loop-motion-graphics-78wWsF.gif" 
+         alt="Infinity Sign" style="width: 300px; height: 300px;" />
 </div>
 
 **My name is Omar, I'm specializing in DevOps and Automation 🚀.**
@@ -14,6 +10,7 @@
 - ❓ Ask me about anything related to **DevOps, cloud infrastructure, and automation tools**.  
 - 📫 How to reach me: **omerwafaey@gmail.com**.  
 - ⚡ Fun fact: I love playing around with **technology** and exploring **new tools and frameworks**.  
+
 
 <br/>  
 
