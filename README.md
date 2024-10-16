@@ -1,8 +1,9 @@
+## My name is Omar, I'm specializing in DevOps and Automation 🚀.
+
+
 <div align="center">
 <img src="https://cdn.dribbble.com/users/420183/screenshots/2875637/octocat_github.gif" align="center" style="width: 100%" />
 </div>
-
-## My name is Omar, I'm specializing in DevOps and Automation 🚀.
 
 - 🔭 I’m currently working with **AWS, Linux, Ansible, Docker, Terraform, and CI/CD**.  
 - 🌱 I’m currently learning advanced automation techniques.  
