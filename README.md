@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/DevOps_infinity_loop.svg/1200px-DevOps_infinity_loop.svg.png" align="center" style="width: 50%;" />
+    <lottie-player src="https://assets4.lottiefiles.com/packages/lf20_4m2d7n3u.json" background="transparent" speed="1" style="width: 300px; height: 300px;" loop autoplay></lottie-player>
 </div>
 
 **My name is Omar, I'm specializing in DevOps and Automation 🚀.**
