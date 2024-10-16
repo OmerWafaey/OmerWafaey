@@ -1,6 +1,5 @@
 <div align="center">
-    <img src="https://media.makeagif.com/media/10-10-2016/colored-strings-infinity-sign-free-infinite-loop-motion-graphics-78wWsF.gif" 
-         alt="Infinity Sign" style="width: 300px; height: 300px;" />
+    ![Colored Strings Infinity Sign](https://i.makeagif.com/media/3-03-2023/78wWsF.gif)
 </div>
 
 **My name is Omar, I'm specializing in DevOps and Automation 🚀.**
@@ -10,6 +9,7 @@
 - ❓ Ask me about anything related to **DevOps, cloud infrastructure, and automation tools**.  
 - 📫 How to reach me: **omerwafaey@gmail.com**.  
 - ⚡ Fun fact: I love playing around with **technology** and exploring **new tools and frameworks**.  
+
 
 
 <br/>  
