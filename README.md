@@ -1,14 +1,14 @@
 <div align="center">
-    <img src="https://i.makeagif.com/media/3-03-2023/78wWsF.gif" alt="Colored Strings Infinity Sign](https://dribbble.com/shots/1575393-Infinity/attachments/8881592?mode=media">
+<img src="https://cdn.dribbble.com/users/420183/screenshots/2875637/octocat_github.gif" align="center" style="width: 100%" />
 </div>
 
-**My name is Omar, I'm specializing in DevOps and Automation 🚀.**
+## My name is Omar, I'm specializing in DevOps and Automation 🚀.
 
 - 🔭 I’m currently working with **AWS, Linux, Ansible, Docker, Terraform, and CI/CD**.  
 - 🌱 I’m currently learning advanced automation techniques.  
 - ❓ Ask me about anything related to **DevOps, cloud infrastructure, and automation tools**.  
 - 📫 How to reach me: **omerwafaey@gmail.com**.  
-- ⚡ Fun fact: I love playing around with **technology** and exploring **new tools and frameworks**.  
+- ⚡ Fun fact: I love playing around with **technology** and exploring **new tools and frameworks**.
 
 
 
