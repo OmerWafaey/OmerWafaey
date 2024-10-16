@@ -1,5 +1,5 @@
 ##
-#My name is Omar, I'm specializing in DevOps and Automation 🚀.
+##My name is Omar, I'm specializing in DevOps and Automation 🚀.
 ##
 
 <div align="center">
