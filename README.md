@@ -2,163 +2,126 @@
 
 # Hey, I'm Omar 👋
 
-### Product Owner | Builder | AI Enthusiast | HRTech Specialist
+**Building Kinderly**
 
-</div>
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-000?style=for-the-badge&logo=github)](https://github.com/OmerWafaey)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/omar-wafaey-087b42205/)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/OmerWafaey)
-[![Email](https://img.shields.io/badge/Email-Say%20Hi-D14836?style=for-the-badge&logo=gmail)](mailto:omerwafaey@gmail.com)
+*Parents deserve peace of mind. Nurseries deserve communication tools that actually work.*
 
 </div>
 
 ---
 
 <div align="center">
-
-## 🎯 Kinderly
-
-**Making caregiving less chaotic.**
-
-[Visit Website →](https://kinderly.net)
-
-</div>
-
-<div align="center">
-
-| |  |
-|---|---|
-| **What it does** | Simplifying care management for families |
-| **Where I'm at** | Product validation & user research |
-| **The bet** | Millions need this. Most tools are terrible. |
-
-</div>
-
----
-
-## 🔄 How I Work (The Workflow)
-
-```mermaid
-graph LR
-    A["👥 Talk to<br/>Users"] --> B["📝 Write<br/>Requirements"]
-    B --> C["⚡ Prototype<br/>Fast"]
-    C --> D["🚀 Build &<br/>Ship"]
-    D --> E["📊 Learn &<br/>Iterate"]
-    E --> A
-    
-    style A fill:#0fa8d9,stroke:#0fa8d9,color:#fff
-    style B fill:#0fa8d9,stroke:#0fa8d9,color:#fff
-    style C fill:#0fa8d9,stroke:#0fa8d9,color:#fff
-    style D fill:#0fa8d9,stroke:#0fa8d9,color:#fff
-    style E fill:#0fa8d9,stroke:#0fa8d9,color:#fff
-```
-
----
-
-## 🚀 What I'm Building
 
 <table>
 <tr>
-<td width="50%">
+<td align="center" width="100%">
 
-### Kinderly
-Core focus. Building product-market fit through relentless user research and rapid validation.
+<h2 style="color: #0D9488; margin: 0;">🌿 Kinderly</h2>
 
-**Current:** Deep discovery phase
+**Nursery-Parent Communication, Simplified**
+
+Real-time updates • Daily reports • Seamless teacher communication
+
+<a href="https://kinderly.net">
+  <img src="https://img.shields.io/badge/Visit%20Kinderly-0D9488?style=for-the-badge&logo=link&logoColor=white" alt="Visit Kinderly" />
+</a>
+
+<br/><br/>
+
+**Current Focus:** Product-market fit through deep user research & rapid validation
 
 </td>
-<td width="50%">
+</tr>
+</table>
 
-### HRTech Expertise
-Years in HRMS, payroll, workforce planning. I understand what actually solves problems vs. what sounds good in a meeting.
+</div>
 
-**Experience:** Enterprise scale systems
+---
 
+## What I'm Working On
+
+<table>
+<tr>
+<td align="center" width="33%">
+<h3>🔍 Research</h3>
+<br/>
+Talking to parents & nurseries daily
+<br/>
+Understanding real pain points
+</td>
+<td align="center" width="33%">
+<h3>⚡ Build</h3>
+<br/>
+Fast prototyping
+<br/>
+Real user feedback loops
+</td>
+<td align="center" width="33%">
+<h3>📊 Learn</h3>
+<br/>
+Iterate based on usage
+<br/>
+Double down on what works
 </td>
 </tr>
 </table>
 
 ---
 
-## 📚 What I'm Learning
+## How I Work
 
 <div align="center">
 
-| AI-Native Workflows | Founder Skills | Product Thinking |
-|---|---|---|
-| Claude + ChatGPT for actual work | Validation & MVP speed | When to trust data vs. intuition |
-| Building faster without cutting corners | User feedback signals | Making decisions with incomplete info |
-| Cursor for rapid prototyping | What to build vs. ignore | Why most products fail |
+**Talk to users first** → Real conversations, not surveys
+
+**Write clear specs** → Good requirements prevent disasters
+
+**Ship fast** → Learning comes from actual usage
+
+**Move quick** → Prototype in days, not months
+
+**Use AI smart** → Remove friction, not replace thinking
 
 </div>
 
 ---
 
-## 💼 How I Actually Think
-
-<blockquote>
-
-**Talk to users first** — Not surveys. Real conversations.
-
-**Write clear specs** — Good requirements prevent a thousand bad conversations.
-
-**Ship early** — Best learning comes from real usage, not theory.
-
-**Measure what matters** — Not vanity metrics, real signals.
-
-**Use AI where it helps** — Because it removes friction, not because it's cool.
-
-</blockquote>
-
----
-
-## 🛠️ Toolkit
+## Tech Stack
 
 <div align="center">
 
-**Product:** Jira • Confluence • Notion • Figma
-
-**Building:** Claude • ChatGPT • Cursor • GitHub
-
-**Data:** SQL • Mixpanel • Google Analytics • Postman
+![Claude](https://img.shields.io/badge/Claude-Thinking%20Partner-000?style=flat-square&logo=anthropic&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-Build%20Speed-00D9FF?style=flat-square&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-Design-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-Plan-000?style=flat-square&logo=notion&logoColor=white)
+![SQL](https://img.shields.io/badge/PostgreSQL-Data-336791?style=flat-square&logo=postgresql&logoColor=white)
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Activity
 
 <div align="center">
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=OmerWafaey&show_icons=true&hide_border=true&bg_color=0d1117&text_color=ffffff&title_color=0fa8d9&icon_color=0fa8d9)](https://github.com/OmerWafaey)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OmerWafaey&show_icons=true&hide_border=true&hide=contribs&bg_color=ffffff&text_color=333333&title_color=0D9488&icon_color=0D9488&card_width=400)
 
 </div>
 
 ---
 
-## 💬 Let's Talk
+## Let's Connect
 
 <div align="center">
 
-**Interested in:**
-- Building products people actually want
-- HRTech & workforce problems worth solving
-- AI in product workflows
-- Early-stage founder challenges
+Interested in **founding**, **product**, **HRTech**, or **early-stage challenges**?
 
-**Get in touch:**
+<br/>
 
-[LinkedIn](https://linkedin.com/in/omar-wafaey-087b42205/) • [Twitter](https://twitter.com/OmerWafaey) • [Email](mailto:omerwafaey@gmail.com)
+[**LinkedIn**](https://linkedin.com/in/omar-wafaey-087b42205/) • [**Twitter**](https://twitter.com/OmerWafaey) • [**Email**](mailto:omerwafaey@gmail.com)
 
-</div>
+<br/><br/>
 
----
-
-<div align="center">
-
-![Views](https://komarev.com/ghpvc/?username=OmerWafaey&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=OmerWafaey&style=flat-square&color=0D9488)
 
 </div>
