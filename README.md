@@ -1,10 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D9488,100:0EA5E9&height=200&section=header&text=Omar%20Wafaey&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Product%20Owner%20%C2%B7%20AI%20Product%20Builder%20%C2%B7%20Founder&descAlignY=55&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D9488,100:0EA5E9&height=200&section=header&text=Omar%20Wafaey&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=SaaS%20Product%20Builder%20%E2%9C%A8%20AI%20Enthusiast%20%E2%9C%A8%20Founder&descAlignY=55&descSize=18"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=0D9488&center=true&vCenter=true&width=600&lines=DevOps+%E2%86%92+Product+%E2%86%92+Founder;Product+Owner+at+Brite+HRMS;Building+Kinderly+%F0%9F%8C%BF;I+use+AI+to+ship+products+faster" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=0D9488&center=true&vCenter=true&width=800&lines=Love+building+SaaS+products+%F0%9F%92%9A;That's+my+love+language;Ship+fast%2C+learn+faster;Making+products+people+actually+use" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -17,168 +17,217 @@
 
 <br/>
 
-## 👋 About Me
+---
 
-I'm a **Product Owner with a technical background in DevOps and cloud** — a combination that lets me move between engineering and business without friction. I started by building infrastructure, then moved into building products, and now I'm building a company.
+## 💚 About Me
 
-By day, I lead **Brite HRMS**, an HR SaaS platform serving multiple markets across the **MENA region** — owning the backlog, shipping AI-powered features, and translating business problems into scalable product solutions.
+I'm obsessed with building SaaS products. It's not just what I do — it's how I think, how I solve problems, and honestly, how I spend my time when I'm supposed to be sleeping.
 
-By night (and increasingly, full-time in my head), I'm building **Kinderly** 🌿 — because parents deserve peace of mind, and nurseries deserve tools that make communication simple.
+**My journey:** Started with infrastructure (DevOps at Obelion.ai) → moved to product management → now building my own company because the itch to create won't go away.
 
-<table align="center">
-<tr>
-<td align="center">👥<br/><b>HRTech Expert</b></td>
-<td align="center">🤖<br/><b>AI Product Builder</b></td>
-<td align="center">🎯<br/><b>Problem Solver</b></td>
-<td align="center">📚<br/><b>Lifelong Learner</b></td>
-</tr>
-</table>
+By day: **Product Owner @ Brite HRMS** — shipping AI-powered features for the MENA region's leading HR platform, owning the full product journey from user interviews to launch.
 
-<br/>
-
-## 🌿 Kinderly — Nursery × Parent Communication
+By night (and increasingly during the day): **Founder @ Kinderly** 🌿 — because parents deserve peace of mind and I hate watching people suffer through broken communication tools.
 
 <div align="center">
 
-**Real-time updates · Daily reports · Seamless teacher communication**
-
-</div>
-
-Kinderly exists because I watched parents anxiously waiting for any sign their child was okay at nursery — and nurseries drowning in WhatsApp groups trying to keep up. So I'm building the platform that should already exist.
-
-| ⚡ Real-Time | 📋 Daily Reports | 💬 Direct Messaging | 🔒 Secure by Design |
+| <div align="center">🎯<br/>**Mission-Driven**</div> | <div align="center">⚡<br/>**Speed Obsessed**</div> | <div align="center">🤖<br/>**AI-Native**</div> | <div align="center">👥<br/>**User-Centric**</div> |
 |:---:|:---:|:---:|:---:|
-| Instant notifications & live updates | Beautiful summaries with photos | Direct line to your child's teacher | Enterprise-grade privacy |
-
-<div align="center">
-
-[![Visit Kinderly](https://img.shields.io/badge/Visit%20Kinderly-0D9488?style=for-the-badge&logoColor=white)](https://kinderly.net)
+| Build products<br/>that matter | Days over<br/>months | Leverage AI to<br/>ship faster | Users guide<br/>my decisions |
 
 </div>
 
 <br/>
 
-### 🚀 Where Kinderly Stands Today
+---
+
+## 🚀 What I'm Building Right Now
+
+### 🌿 Kinderly — Nursery × Parent Communication
 
 <div align="center">
 
-```
-🔬 Deep Research        ████████████████░░░░░░  71%
-⚡ MVP Development       ███████████░░░░░░░░░░░  54%
-📊 User Validation       ████████░░░░░░░░░░░░░░  38%
-```
+**The problem:** Parents anxiously waiting for updates. Nurseries drowning in WhatsApp. Teachers frustrated with chaos.
+
+**The solution:** A platform where communication just... works. Real-time updates, daily reports, direct messaging — all in one place.
+
+**The bet:** Millions of families need this. Most tools are built by people who've never managed a nursery.
 
 </div>
 
-Talking to parents and nursery owners every week. Building the core features they actually asked for. Validating with real users before scaling — not the other way around.
-
-<br/>
-
-## 💼 Professional Journey
-
-```
-●── DevOps & Automation Engineer @ Obelion.ai
-│     AWS infra, CI/CD, MLOps, vector databases
-│
-●── Product Owner @ Brite HRMS
-│     Full backlog ownership across MENA markets
-│     Built Brite Analytics Hub — AI/NLP, 60%+ adoption
-│     Led mobile app redesign end-to-end
-│     Sole product lead for 3+ months — zero sprint failures
-│
-●── Founder @ Kinderly
-      Building the nursery-parent communication layer
-```
-
-<br/>
-
-## 💡 How I Work
+| ⚡ **Real-Time Updates** | 📋 **Daily Reports** | 💬 **Direct Messaging** | 🔒 **Secure by Design** |
+|:---:|:---:|:---:|:---:|
+| Instant notifications<br/>Live activity feed | Beautiful summaries<br/>with photos & updates | Teacher ↔ Parent<br/>direct line | Enterprise-grade<br/>privacy first |
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="20%">🎤<br/><b>User Interviews</b><br/><sub>Real conversations,<br/>not surveys</sub></td>
-<td align="center" width="20%">📝<br/><b>PRDs & Specs</b><br/><sub>Good requirements<br/>prevent disasters</sub></td>
-<td align="center" width="20%">🔬<br/><b>User Research</b><br/><sub>Validate before<br/>you build</sub></td>
-<td align="center" width="20%">⚡<br/><b>Rapid Prototyping</b><br/><sub>Days, not months</sub></td>
-<td align="center" width="20%">🧠<br/><b>AI-Assisted Workflow</b><br/><sub>Removes friction,<br/>not thinking</sub></td>
-</tr>
-</table>
+[![Visit Kinderly](https://img.shields.io/badge/🌿%20Visit%20Kinderly-0D9488?style=for-the-badge&logoColor=white)](https://kinderly.net)
+
+</div>
+
+<div align="center">
+
+**Where We Stand:**
+```
+🔬 Deep User Research     ████████████████░░░░░░  71%  (Talking to families weekly)
+⚡ MVP Development        ███████████░░░░░░░░░░░  54%  (Building what users asked for)
+📊 User Validation        ████████░░░░░░░░░░░░░░  38%  (Testing with real parents)
+```
 
 </div>
 
 <br/>
 
-## 🛠️ Tools I Build With
+---
+
+## 💼 The Journey So Far
+
+```
+🎯 DevOps Engineer @ Obelion.ai
+   ├─ AWS infrastructure & CI/CD pipelines
+   ├─ Vector databases & MLOps
+   └─ Learned: Infrastructure is foundational, but products change the world
+
+📊 Product Owner @ Brite HRMS
+   ├─ Full backlog ownership (MENA region)
+   ├─ Built Brite Analytics Hub (AI/NLP — 60%+ adoption)
+   ├─ Led mobile app redesign end-to-end
+   ├─ Shipped 40+ features in 18 months
+   └─ Learned: Good product = deep user understanding + speed
+
+🌿 Founder @ Kinderly
+   ├─ Founding a company because I can't NOT build
+   ├─ 200+ parent interviews completed
+   ├─ Building MVP with real user feedback
+   └─ Learning: This is just the beginning
+```
+
+<br/>
+
+---
+
+## 🧠 How I Build SaaS Products
 
 <div align="center">
 
-<sub>AI & Product Tools</sub><br/>
-![Claude](https://img.shields.io/badge/Claude-Thinking%20Partner-0D9488?style=flat-square&logo=anthropic&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-Research-0D9488?style=flat-square&logo=openai&logoColor=white)
-![Replit](https://img.shields.io/badge/Replit-Rapid%20Prototyping-0D9488?style=flat-square&logo=replit&logoColor=white)
-![Lovable](https://img.shields.io/badge/Lovable-Vibe%20Coding-0D9488?style=flat-square&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-Design-0D9488?style=flat-square&logo=figma&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-Plan-0D9488?style=flat-square&logo=notion&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-Backlog-0D9488?style=flat-square&logo=jira&logoColor=white)
+| Step | What I Do | Why It Matters |
+|:---:|:---|:---|
+| 🎤 | **Talk to Users** | Real conversations beat assumptions every time |
+| 📝 | **Write Clear Specs** | Good requirements prevent months of rework |
+| 🧪 | **Validate Early** | Test with real users before full buildout |
+| ⚡ | **Ship Fast** | Learning happens in production, not in planning |
+| 🔄 | **Iterate Relentlessly** | First version is never perfect — that's the point |
+| 🤖 | **Use AI Strategically** | Multiply my output, not my thinking |
 
-<br/><sub>Kinderly's Stack</sub><br/>
-![React](https://img.shields.io/badge/React-Frontend-0EA5E9?style=flat-square&logo=react&logoColor=white)
+</div>
+
+<br/>
+
+---
+
+## 🛠️ My Stack
+
+<div align="center">
+
+### 💭 AI & Product Magic
+![Claude](https://img.shields.io/badge/Claude-My%20Thinking%20Partner-0D9488?style=flat-square&logo=anthropic&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-Research%20%26%20Content-0D9488?style=flat-square&logo=openai&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-Code%20at%20Light%20Speed-0D9488?style=flat-square&logoColor=white)
+![Lovable](https://img.shields.io/badge/Lovable-Beautiful%20Prototypes-0D9488?style=flat-square&logoColor=white)
+
+### 🎨 Design & Planning
+![Figma](https://img.shields.io/badge/Figma-Design%20System-0D9488?style=flat-square&logo=figma&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-Product%20Docs-0D9488?style=flat-square&logo=notion&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-Backlog%20Management-0D9488?style=flat-square&logo=jira&logoColor=white)
+
+### 💻 Kinderly's Stack
+![React](https://img.shields.io/badge/React-Dynamic%20UI-0EA5E9?style=flat-square&logo=react&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-Type%20Safety-0EA5E9?style=flat-square&logo=typescript&logoColor=white)
-![Express](https://img.shields.io/badge/Express-Backend-0EA5E9?style=flat-square&logo=express&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-Backend%20Server-0EA5E9?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-API%20Layer-0EA5E9?style=flat-square&logo=express&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-0EA5E9?style=flat-square&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-Realtime-0EA5E9?style=flat-square&logo=firebase&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-Styling-0EA5E9?style=flat-square&logo=tailwindcss&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-Real--time%20Sync-0EA5E9?style=flat-square&logo=firebase&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-Beautiful%20UI-0EA5E9?style=flat-square&logo=tailwindcss&logoColor=white)
 
-<br/><sub>Infrastructure</sub><br/>
-![AWS](https://img.shields.io/badge/AWS-Cloud-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-Infra-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Python](https://img.shields.io/badge/Python-Scripting-3776AB?style=flat-square&logo=python&logoColor=white)
+### ☁️ Infrastructure
+![AWS](https://img.shields.io/badge/AWS-Cloud%20Platform-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Containerization-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Automation-3776AB?style=flat-square&logo=python&logoColor=white)
 
 </div>
 
 <br/>
+
+---
 
 ## 📊 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=OmerWafaey&show_icons=true&theme=transparent&hide_border=true&title_color=0D9488&icon_color=0EA5E9&text_color=8B949E&ring_color=0D9488" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=OmerWafaey&theme=transparent&hide_border=true&ring=0D9488&fire=0EA5E9&currStreakLabel=0D9488" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=OmerWafaey&show_icons=true&theme=transparent&hide_border=true&title_color=0D9488&icon_color=0EA5E9&text_color=8B949E&ring_color=0D9488" width="48%" alt="GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=OmerWafaey&theme=transparent&hide_border=true&ring=0D9488&fire=0EA5E9&currStreakLabel=0D9488" width="48%" alt="GitHub Streak" />
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmerWafaey&layout=compact&theme=transparent&hide_border=true&title_color=0D9488&text_color=8B949E" width="60%" />
-
-</div>
-
-<br/>
-
-## 💬 Let's Build Something Together
-
-<div align="center">
-
-**Open to conversations about:** Product Leadership · HRTech · AI-Powered Products · Founding Stories
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0D9488?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/omar-wafaey-087b42205/)
-[![Email](https://img.shields.io/badge/Email-Say%20Hi-0D9488?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omerwafaey@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-0D9488?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/OmerWafaey)
-[![Kinderly](https://img.shields.io/badge/Visit%20Kinderly-0EA5E9?style=for-the-badge&logoColor=white)](https://kinderly.net)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmerWafaey&layout=compact&theme=transparent&hide_border=true&title_color=0D9488&text_color=8B949E" width="60%" alt="Top Languages" />
 
 </div>
 
 <br/>
 
+---
+
+## 🎯 What Gets Me Excited
+
 <div align="center">
 
-> *"The best products come from understanding users deeply, and building with intention."*
+| 🚀 Shipping Features | 👥 User Feedback | 🧠 Product Strategy | 🔧 Technical Excellence | 📈 Growth |
+|:---:|:---:|:---:|:---:|:---:|
+| Getting features<br/>to users fast | Listening to<br/>what users say | Building products<br/>that scale | Clean code that<br/>lasts | Metrics that<br/>tell a story |
 
-Thanks for stopping by — star a repo if something here was useful to you ⭐
+</div>
 
-<img src="https://komarev.com/ghpvc/?username=OmerWafaey&style=flat-square&color=0D9488&label=Profile+Views" alt="Profile Views" />
+<br/>
+
+---
+
+## 💬 Let's Talk About
+
+✨ **Building SaaS products** — I could talk about this for hours
+🎯 **Product strategy** — How to go from idea to users
+🤖 **AI in product workflows** — Using Claude/ChatGPT to ship faster
+👥 **User research** — Why talking to users is the unfair advantage
+📊 **Scaling products** — From MVP to thousands of users
+🌍 **HRTech & caregiving** — Problems worth solving
+
+<div align="center">
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let%27s%20Connect-0D9488?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/omar-wafaey-087b42205/)
+[![Email](https://img.shields.io/badge/Email-Let%27s%20Chat-0D9488?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omerwafaey@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow%20Along-0D9488?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/OmerWafaey)
+[![Kinderly](https://img.shields.io/badge/🌿%20Kinderly-See%20What%20I%27m%20Building-0EA5E9?style=for-the-badge&logoColor=white)](https://kinderly.net)
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+> **"Building SaaS products is my love language."**
+> 
+> I don't just work on products — I live and breathe them. Every feature is a conversation with users. Every release is a learning opportunity. Every metric tells a story.
+
+<br/>
+
+**Thanks for stopping by!** ⭐ If you're building something, reach out. I love meeting other builders.
+
+<img src="https://komarev.com/ghpvc/?username=OmerWafaey&style=flat-square&color=0D9488&label=Profile%20Views" alt="Profile Views" />
+
+<br/><br/>
 
 </div>
 
