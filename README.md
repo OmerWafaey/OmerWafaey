@@ -80,13 +80,13 @@ Talking to parents and nursery owners every week. Building the core features the
 2024 ─────●  DevOps & Automation Engineer @ Obelion.ai
               AWS infra, CI/CD, MLOps, vector databases
 
-2023 ─────●  Product Owner @ Brite HRMS
+2025 ─────●  Product Owner @ Brite HRMS
               Full backlog ownership across MENA markets
               Built Brite Analytics Hub — AI/NLP, 60%+ adoption
               Led mobile app redesign end-to-end
               Sole product lead for 3+ months — zero sprint failures
 
-2025 ─────●  Founder @ Kinderly
+2026 ─────●  Founder @ Kinderly
               Building the nursery-parent communication layer
 ```
 
