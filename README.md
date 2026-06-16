@@ -1,10 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D9488,100:0EA5E9&height=200&section=header&text=Omar%20Wafaey&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Product%20Owner%20%C2%B7%20AI%20Product%20Builder%20%C2%B7%20SaaS Products&descAlignY=55&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D9488,100:0EA5E9&height=200&section=header&text=Omar%20Wafaey&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Product%20Owner%20%C2%B7%20AI%20Product%20Builder%20%C2%B7%20Founder&descAlignY=55&descSize=18"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=0D9488&center=true&vCenter=true&width=600&lines=Building+Kinderly+%F0%9F%8C%BF;Product+Owner+at+Brite+HRMS;DevOps+%E2%86%92+Product+%E2%86%92+SaaS Products;I+use+AI+to+ship+products+faster" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=0D9488&center=true&vCenter=true&width=600&lines=DevOps+%E2%86%92+Product+%E2%86%92+Founder;Product+Owner+at+Brite+HRMS;Building+Kinderly+%F0%9F%8C%BF;I+use+AI+to+ship+products+faster" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -19,7 +19,7 @@
 
 ## 👋 About Me
 
-I'm a **Product Owner with a technical background in DevOps and cloud** — a combination that lets me move between engineering and business without friction. I started by building infrastructure, then moved into building products, and now I build companies.
+I'm a **Product Owner with a technical background in DevOps and cloud** — a combination that lets me move between engineering and business without friction. I started by building infrastructure, then moved into building products, and now I'm building a company.
 
 By day, I lead **Brite HRMS**, an HR SaaS platform serving multiple markets across the **MENA region** — owning the backlog, shipping AI-powered features, and translating business problems into scalable product solutions.
 
@@ -77,17 +77,17 @@ Talking to parents and nursery owners every week. Building the core features the
 ## 💼 Professional Journey
 
 ```
-2024 ─────●  DevOps & Automation Engineer @ Obelion.ai
-              AWS infra, CI/CD, MLOps, vector databases
-
-2025 ─────●  Product Owner @ Brite HRMS
-              Full backlog ownership across MENA markets
-              Built Brite Analytics Hub — AI/NLP, 60%+ adoption
-              Led mobile app redesign end-to-end
-              Sole product lead for 3+ months — zero sprint failures
-
-2026 ─────●  SaaS Products @ Kinderly
-              Building the nursery-parent communication layer
+●── DevOps & Automation Engineer @ Obelion.ai
+│     AWS infra, CI/CD, MLOps, vector databases
+│
+●── Product Owner @ Brite HRMS
+│     Full backlog ownership across MENA markets
+│     Built Brite Analytics Hub — AI/NLP, 60%+ adoption
+│     Led mobile app redesign end-to-end
+│     Sole product lead for 3+ months — zero sprint failures
+│
+●── Founder @ Kinderly
+      Building the nursery-parent communication layer
 ```
 
 <br/>
