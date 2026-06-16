@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D9488,100:0EA5E9&height=200&section=header&text=Omar%20Wafaey&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=SaaS%20Product%20Builder%20%E2%9C%A8%20AI%20Enthusiast%20%E2%9C%A8%20Founder&descAlignY=55&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D9488,100:0EA5E9&height=200&section=header&text=Omar%20Wafaey&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=SaaS%20Product%20Builder%20%7C%20AI%20Enthusiast%20%7C%20Founder&descAlignY=55&descSize=18"/>
 
 <br/>
 
@@ -90,14 +90,14 @@ By night (and increasingly during the day): **Founder @ Kinderly** 🌿 — beca
 
 📊 Product Owner @ Brite HRMS
    ├─ Full backlog ownership (MENA region)
-   ├─ Built Brite Analytics Hub (AI/NLP — 60%+ adoption)
+   ├─ Built Brite Analytics Hub
    ├─ Led mobile app redesign end-to-end
    ├─ Shipped 40+ features in 18 months
    └─ Learned: Good product = deep user understanding + speed
 
 🌿 Founder @ Kinderly
    ├─ Founding a company because I can't NOT build
-   ├─ 200+ parent interviews completed
+   ├─ 50+ parent interviews completed
    ├─ Building MVP with real user feedback
    └─ Learning: This is just the beginning
 ```
@@ -169,7 +169,14 @@ By night (and increasingly during the day): **Founder @ Kinderly** 🌿 — beca
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmerWafaey&layout=compact&theme=transparent&hide_border=true&title_color=0D9488&text_color=8B949E" width="60%" alt="Top Languages" />
+### 💻 Most Used Languages
+
+![TypeScript](https://img.shields.io/badge/TypeScript-54.84%25-0EA5E9?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-29.51%25-0EA5E9?style=flat-square&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-5.44%25-0D9488?style=flat-square&logo=node.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-5.30%25-0D9488?style=flat-square&logo=javascript&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-3.79%25-0EA5E9?style=flat-square&logo=css3&logoColor=white)
+![Others](https://img.shields.io/badge/Others-1.12%25-808080?style=flat-square&logoColor=white)
 
 </div>
 
