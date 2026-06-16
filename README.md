@@ -1,99 +1,180 @@
-## <div align="center">
-<strong style="font-size: 24px;">                             My name is Omar, I'm specializing in DevOps and Automation 🚀.</strong>
+# 👋 Omar Wafaey
+
+<div align="center">
+  <h2>Product Owner & Manager | SaaS & HRTech Specialist</h2>
+  <p>Building ambitious products at the intersection of <strong>product strategy</strong>, <strong>user discovery</strong>, and <strong>AI-assisted workflows</strong></p>
+  
+  [![GitHub](https://img.shields.io/badge/GitHub-OmerWafaey-black?style=flat-square&logo=github)](https://github.com/OmerWafaey)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Omar%20Wafaey-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/omar-wafaey-087b42205/)
+  [![Twitter](https://img.shields.io/badge/Twitter-@OmerWafaey-1DA1F2?style=flat-square&logo=twitter)](https://twitter.com/OmerWafaey)
+  [![Email](https://img.shields.io/badge/Email-omerwafaey%40gmail.com-D14836?style=flat-square&logo=gmail)](mailto:omerwafaey@gmail.com)
 </div>
 
+---
 
-#
+## 🚀 About Me
+
+I'm a **Product Owner and Manager** with a strong technical foundation, passionate about building products that solve real problems in the **SaaS and HRTech** space. I specialize in uncovering user needs through discovery, translating them into clear requirements, and partnering with teams to ship ambitious products.
+
+My approach combines **strategic thinking** with **hands-on execution**—I'm equally comfortable in discovery conversations with users, writing detailed requirements, designing workflows in Figma, or debugging data flows in SQL. I believe the best products come from understanding your user deeply and iterating relentlessly.
+
+I'm particularly interested in how **AI can augment human potential**—whether that's automating documentation, enhancing product decisions with better data, or building AI-native workflows that genuinely improve how teams work.
+
+---
+
+## 🎯 Current Focus
+
+- **Product Strategy & Roadmapping** — Defining the vision and translating it into executable roadmaps
+- **User Research & Discovery** — Talking to users, identifying patterns, validating assumptions before building
+- **Requirements Engineering** — Bridging the gap between what users need and what engineers build
+- **AI-Assisted Product Workflows** — Exploring how AI can accelerate product discovery, content creation, and decision-making
+- **SaaS & HRTech** — Building in the workforce and human resources technology space
+- **Metrics-Driven Product Decisions** — Using analytics to validate hypotheses and guide product direction
+
+---
+
+## 💡 Product Philosophy
+
+**Build with clarity.** Every feature should have a clear "why" grounded in user needs or business outcomes.
+
+**Move with intention.** Understand your user first, hypothesize second, build third. Fast iteration beats perfect planning.
+
+**Make trade-offs visible.** Products are constraints. Every decision eliminates something. Be honest about what you're not building.
+
+**Ship, learn, repeat.** The best product insight comes from real usage. Get to users fast, measure what matters, iterate based on data.
+
+**Technology serves the product.** Great tools amplify teams, but the product is what matters. Choose tools that let your team focus on users, not tooling.
+
+---
+
+## 🤖 Building with AI
+
+I'm exploring AI not as a buzzword, but as a genuine amplifier for product teams:
+
+- **Product Discovery** — Using Claude and ChatGPT to rapidly synthesize user research, generate hypotheses, and explore solution spaces
+- **Requirements & Documentation** — AI-assisted drafting of specs, PRDs, and user stories that teams then refine
+- **Workflow Automation** — Building AI-native workflows that make our team faster at research, analysis, and ideation
+- **Code-Assisted Development** — Using Cursor to ship prototypes faster, letting me validate ideas before committing engineering resources
+
+The goal: **more thinking time, less administrative work.**
+
+---
+
+## 📦 Featured Projects
+
+### **Kinderly**
+Building in the caregiving and family well-being space. Focused on discovering how technology can genuinely support families managing care responsibilities.
+
+### **HR & Workforce Products**
+Deep expertise in designing solutions for talent management, workforce planning, and employee experiences. Understanding the nuances of HR workflows, compliance needs, and what actually drives adoption.
+
+### **AI-Assisted Product Workflows**
+Exploring how modern AI tools (Claude, ChatGPT, Cursor) can accelerate the full product lifecycle—from discovery through documentation to rapid prototyping.
+
+---
+
+## 🛠️ Product Toolkit
+
+The tools I use to think about, spec, and ship products:
+
 <div align="center">
-<img src="https://cdn.dribbble.com/users/420183/screenshots/2875637/octocat_github.gif" align="center" style="width: 100%" />
+
+| Category | Tools |
+|----------|-------|
+| **Planning & Requirements** | Jira, Confluence, Notion |
+| **Design & Wireframing** | Figma, Miro |
+| **Collaboration** | Slack |
+| **Analytics & Insights** | Mixpanel, Google Analytics, Postman |
+| **Technical Tools** | SQL, GitHub |
+
 </div>
 
-- 🔭 I’m currently working with **AWS, Linux, Ansible, Docker, Terraform, and CI/CD**.  
-- 🌱 I’m currently learning advanced automation techniques.  
-- ❓ Ask me about anything related to **DevOps, cloud infrastructure, and automation tools**.  
-- 📫 How to reach me: **omerwafaey@gmail.com**.  
-- ⚡ Fun fact: I love playing around with **technology** and exploring **new tools and frameworks**.
+---
 
+## 🧠 Technical Toolkit
 
+Because product managers should understand the systems they're building:
 
+<div align="center">
 
+| Skill | Purpose |
+|-------|---------|
+| **SQL** | Querying data directly, understanding product analytics |
+| **GitHub** | Following feature development, reviewing docs, shipping |
+| **Postman** | Testing APIs, understanding integrations |
+| **Product Analytics** | Mixpanel, Google Analytics for data-driven decisions |
+| **AI Tools** | Claude, ChatGPT, Cursor for acceleration |
 
-
-<br/>  
-
-## About Me
-I am focused on creating efficient and scalable solutions that drive business growth through technology. My skills include working with cloud infrastructure, scripting, and automation tools. I have hands-on experience in implementing CI/CD pipelines for seamless integration and delivery. I thrive in environments that value automation, agility, and customer-centric solutions, helping optimize workflows and enhance productivity.
-
-The NTI DevOps and Automation track is a 4-month program I am currently enrolled in, focusing on tools like Ansible, Docker, AWS, Linux, Bash scripting, Terraform, Python, Agile, and CI/CD. This program provides hands-on experience in automating processes and managing cloud environments, preparing me for a successful career in DevOps.
-
-<br/>  
-
-## My Skill Set  
-<table><tr><td valign="top" width="50%">
-<div align="center">  
-    <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" height="50" /></a>  
-    <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="Linux" height="50" /></a>  
-    <a href="https://www.ansible.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/2/24/Ansible_logo.svg" alt="Ansible" height="50" /></a>  
-  <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" alt="Docker" height="50" /></a>  
-  <a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/1234px-Kubernetes_logo_without_workmark.svg.png" alt="Kubernetes" height="50" /></a>
-    <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" height="50" /></a>  
-    <a href="https://www.git-scm.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" alt="Git" height="50" /></a>  
-    <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" height="50" /></a>  
-    <a href="https://www.terraform.io/" target="_blank"><img style="margin: 10px" src="https://icon.icepanel.io/Technology/svg/HashiCorp-Terraform.svg" alt="Terraform" height="50" /></a>  
-    <a href="https://en.wikipedia.org/wiki/Bash_(Unix)" target="_blank"><img style="margin: 10px" src="https://icon.icepanel.io/Technology/png-shadow-512/Bash.png" alt="Bash" height="50" /></a>  
 </div>
 
+---
 
+## 🤝 AI & Automation Stack
 
+Tools I use to amplify my thinking and execution:
 
-
-</td></tr></table>  
-
-<br/>  
-
-## Connect with Me  
 <div align="center">
-<a href="https://github.com/OmerWafaey" target="_blank">
-<img src="https://img.shields.io/badge/github-%2324292e.svg?&style=flat&logo=github&logoColor=white" alt="GitHub" style="margin: 5px;" />
-</a>
-<a href="https://twitter.com/OmerWafaey" target="_blank">
-<img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=flat&logo=twitter&logoColor=white" alt="Twitter" style="margin: 5px;" />
-</a>
-<a href="https://linkedin.com/in/omar-wafaey-087b42205/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin: 5px;" />
-</a>
-<a href="https://www.kaggle.com/omerwafaey" target="_blank">
-<img src="https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=flat&logo=kaggle&logoColor=white" alt="Kaggle" style="margin: 5px;" />
-</a>
-<a href="https://www.instagram.com/0marwafaey/" target="_blank">
-<img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=flat&logo=instagram&logoColor=white" alt="Instagram" style="margin: 5px;" />
-</a>
-<a href="https://www.facebook.com/@omarwafaey" target="_blank">
-<img src="https://img.shields.io/badge/facebook-%232E87FB.svg?&style=flat&logo=facebook&logoColor=white" alt="Facebook" style="margin: 5px;" />
-</a>  
-</div>  
 
-<br/>  
+**AI & Code**
 
-## Github Stats  
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=OmerWafaey&show_icons=true&hide_border=true&bg_color=00000000&text_color=ffffff&title_color=ffcc00&icon_color=ffcc00" alt="Omar's GitHub Stats" />
-</div>  
+[![Claude](https://img.shields.io/badge/Claude-AI%20Assistant-1F1F1F?style=flat-square&logo=anthropic)](https://claude.ai)
+[![ChatGPT](https://img.shields.io/badge/ChatGPT-AI%20Assistant-00A67E?style=flat-square&logo=openai)](https://chatgpt.com)
+[![Cursor](https://img.shields.io/badge/Cursor-AI%20Code%20Editor-00D9FF?style=flat-square)](https://cursor.com)
 
-<br/>  
+**Product & Analytics**
 
-## Recent Blog Posts  
-<div align="center">
-<p style="font-size: 18px; color: #ffcc00; margin-bottom: 10px;">Check out my latest blog posts:</p>
-<ul style="list-style-type: none;">
-  <li><a href="#" target="_blank">Understanding CI/CD Pipelines in DevOps</a></li>
-  <li><a href="#" target="_blank">Getting Started with Docker</a></li>
-  <li><a href="#" target="_blank">Ansible: The Future of Automation</a></li>
-</ul>
+[![Mixpanel](https://img.shields.io/badge/Mixpanel-Analytics-1FA0F2?style=flat-square)](https://mixpanel.com)
+[![Google%20Analytics](https://img.shields.io/badge/Google%20Analytics-Insights-E37400?style=flat-square&logo=google)](https://analytics.google.com)
+
+**Design & Collaboration**
+
+[![Figma](https://img.shields.io/badge/Figma-Design%20%26%20Prototyping-F24E1E?style=flat-square&logo=figma)](https://figma.com)
+[![Miro](https://img.shields.io/badge/Miro-Whiteboarding-050038?style=flat-square&logo=miro)](https://miro.com)
+
+**Requirements & Docs**
+
+[![Jira](https://img.shields.io/badge/Jira-Issue%20Tracking-0052CC?style=flat-square&logo=jira)](https://jira.com)
+[![Confluence](https://img.shields.io/badge/Confluence-Documentation-172B4D?style=flat-square&logo=confluence)](https://confluence.com)
+[![Notion](https://img.shields.io/badge/Notion-Knowledge%20Base-000000?style=flat-square&logo=notion)](https://notion.so)
+
+**Development & APIs**
+
+[![GitHub](https://img.shields.io/badge/GitHub-Code%20Repository-181717?style=flat-square&logo=github)](https://github.com/OmerWafaey)
+[![Postman](https://img.shields.io/badge/Postman-API%20Testing-FF6C37?style=flat-square&logo=postman)](https://postman.com)
+[![SQL](https://img.shields.io/badge/SQL-Data%20Querying-336791?style=flat-square&logo=postgresql)](https://www.postgresql.org)
+
 </div>
 
-<br/>  
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=OmerWafaey&&style=flat-square" align="center" />
-</div>  
+
+![Omar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=OmerWafaey&show_icons=true&hide_border=true&bg_color=00000000&text_color=ffffff&title_color=0fa8d9&icon_color=0fa8d9&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OmerWafaey&layout=compact&hide_border=true&bg_color=00000000&text_color=ffffff&title_color=0fa8d9)
+
+</div>
+
+---
+
+## 💬 Let's Talk
+
+I'm always interested in conversations about:
+
+- **Product strategy & discovery** — How do you find product-market fit?
+- **HRTech & Workforce solutions** — What problems are we still not solving?
+- **Building with AI** — How are you using AI to ship faster and think better?
+- **Startup life** — The tension between speed and quality, user obsession, and execution
+
+Reach out on [LinkedIn](https://linkedin.com/in/omar-wafaey-087b42205/), [Twitter](https://twitter.com/OmerWafaey), or [email](mailto:omerwafaey@gmail.com). I read every message.
+
+---
+
+<div align="center">
+  <p>
+    <em>Building products that matter, one user conversation at a time.</em>
+  </p>
+  <img src="https://komarev.com/ghpvc/?username=OmerWafaey&style=flat-square&color=0fa8d9" alt="Profile Views" />
+</div>
