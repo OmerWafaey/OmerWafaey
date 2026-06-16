@@ -1,114 +1,164 @@
+<div align="center">
+
 # Hey, I'm Omar 👋
 
-I'm a product owner and builder working on hard problems in HR and workforce technology. I think deeply about products, write a lot of code-adjacent docs, and use AI to ship faster without sacrificing quality.
+### Product Owner | Builder | AI Enthusiast | HRTech Specialist
 
-Right now, I'm obsessed with **Kinderly** and exploring how AI can make product teams faster.
+</div>
 
----
+<div align="center">
 
-## 🚀 Kinderly
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-000?style=for-the-badge&logo=github)](https://github.com/OmerWafaey)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/omar-wafaey-087b42205/)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/OmerWafaey)
+[![Email](https://img.shields.io/badge/Email-Say%20Hi-D14836?style=for-the-badge&logo=gmail)](mailto:omerwafaey@gmail.com)
 
-**[kinderly.net](https://kinderly.net)** — The main thing I'm focused on.
-
-Kinderly is about making caregiving less chaotic. The reality is millions of people are managing complex care situations—for parents, kids, partners—and the tools available are either nonexistent or terrible.
-
-**What I'm doing:**
-- Talking to people who are actually doing this (deep user research)
-- Understanding the real workflows, not the theoretical ones
-- Building something people actually want to use
-- Writing clear requirements so the team knows exactly what to build
-- Using AI to handle the boring parts (docs, specs, analysis)
-
-**Current focus:** Finding product-market fit through rapid validation and real user feedback.
+</div>
 
 ---
 
-## What I'm Building
+<div align="center">
 
-Beyond Kinderly, I've spent years in the HRTech space understanding what actually matters:
+## 🎯 Kinderly
 
-**Workforce & HR Systems**
-- Built features used by millions in HRMS, payroll, workforce planning
-- Understand the chaos of compliance, data integrity, user adoption
-- Know the difference between what HR *says* they want and what actually solves their problem
+**Making caregiving less chaotic.**
 
-**Requirements That Actually Get Built**
-- I write specs that engineers actually want to build
-- User stories that capture edge cases and real workflows
-- Clear acceptance criteria that prevent back-and-forth
+[Visit Website →](https://kinderly.net)
 
-**Product Discovery**
-- I talk to users until I understand the 80/20 of their real problem
-- Rapid prototyping to validate before committing engineering resources
-- Killing ideas that sound good but won't work
+</div>
 
----
+<div align="center">
 
-## What I'm Learning
+| |  |
+|---|---|
+| **What it does** | Simplifying care management for families |
+| **Where I'm at** | Product validation & user research |
+| **The bet** | Millions need this. Most tools are terrible. |
 
-**AI-Native Product Workflows**
-- Using Claude and ChatGPT not as novelty, but as actual tools that make me faster
-- Building product specs 2-3x faster with AI review
-- Prototyping with Cursor to validate ideas before engineering
-
-**Founder Skills**
-- How to validate ideas without overbuilding
-- Finding signal in user feedback noise
-- Deciding what to build vs. what to ignore
-
-**Being a Better Product Thinker**
-- When to trust data vs. intuition
-- How to make decisions with incomplete information
-- Why most products fail (spoiler: it's not the idea)
+</div>
 
 ---
 
-## How I Work
+## 🔄 How I Work (The Workflow)
 
-I believe in:
-
-- **Talk to users first.** Not surveys, not analytics—actual conversations. What are they doing when they use your product?
-- **Write it down.** I love docs, specs, and clarity. Good requirements prevent a thousand bad conversations.
-- **Ship early.** The best learning comes from real users using real product. Not beta. Not focus groups. Real.
-- **Measure what matters.** Not vanity metrics. What's the behavior you actually care about?
-- **Use AI where it helps.** Not because it's cool, but because it removes friction from writing, analyzing, and thinking.
-
-I'm not interested in:
-- Moving pixels around without understanding user problems
-- Building features because stakeholders ask for them
-- Vanity metrics or false confidence
-
----
-
-## Toolkit
-
-**Product Thinking:** Jira, Confluence, Notion, Figma  
-**Building & Code:** Claude, ChatGPT, Cursor, GitHub  
-**Data:** SQL, Mixpanel, Google Analytics, Postman  
-
-I use tools that get out of the way. The tool doesn't matter—understanding the problem does.
+```mermaid
+graph LR
+    A["👥 Talk to<br/>Users"] --> B["📝 Write<br/>Requirements"]
+    B --> C["⚡ Prototype<br/>Fast"]
+    C --> D["🚀 Build &<br/>Ship"]
+    D --> E["📊 Learn &<br/>Iterate"]
+    E --> A
+    
+    style A fill:#0fa8d9,stroke:#0fa8d9,color:#fff
+    style B fill:#0fa8d9,stroke:#0fa8d9,color:#fff
+    style C fill:#0fa8d9,stroke:#0fa8d9,color:#fff
+    style D fill:#0fa8d9,stroke:#0fa8d9,color:#fff
+    style E fill:#0fa8d9,stroke:#0fa8d9,color:#fff
+```
 
 ---
 
-## Random Facts
+## 🚀 What I'm Building
 
-- I love when a good requirement prevents 10 bad conversations
-- I'm skeptical of "best practices" that haven't been tested in your specific context
-- I think a lot of product management is just clear thinking + good communication
-- I believe AI is going to be table stakes for product teams in 2 years
+<table>
+<tr>
+<td width="50%">
+
+### Kinderly
+Core focus. Building product-market fit through relentless user research and rapid validation.
+
+**Current:** Deep discovery phase
+
+</td>
+<td width="50%">
+
+### HRTech Expertise
+Years in HRMS, payroll, workforce planning. I understand what actually solves problems vs. what sounds good in a meeting.
+
+**Experience:** Enterprise scale systems
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Let's Talk
+## 📚 What I'm Learning
 
-I'm interested in:
-- Building products people actually want to use
-- HRTech and workforce problems worth solving
-- How AI changes how we do product work
-- Early-stage founder problems and insights
+<div align="center">
 
-Reach out: [LinkedIn](https://linkedin.com/in/omar-wafaey-087b42205/) • [Twitter](https://twitter.com/OmerWafaey) • [Email](mailto:omerwafaey@gmail.com)
+| AI-Native Workflows | Founder Skills | Product Thinking |
+|---|---|---|
+| Claude + ChatGPT for actual work | Validation & MVP speed | When to trust data vs. intuition |
+| Building faster without cutting corners | User feedback signals | Making decisions with incomplete info |
+| Cursor for rapid prototyping | What to build vs. ignore | Why most products fail |
+
+</div>
 
 ---
 
-![Profile views](https://komarev.com/ghpvc/?username=OmerWafaey&style=flat-square)
+## 💼 How I Actually Think
+
+<blockquote>
+
+**Talk to users first** — Not surveys. Real conversations.
+
+**Write clear specs** — Good requirements prevent a thousand bad conversations.
+
+**Ship early** — Best learning comes from real usage, not theory.
+
+**Measure what matters** — Not vanity metrics, real signals.
+
+**Use AI where it helps** — Because it removes friction, not because it's cool.
+
+</blockquote>
+
+---
+
+## 🛠️ Toolkit
+
+<div align="center">
+
+**Product:** Jira • Confluence • Notion • Figma
+
+**Building:** Claude • ChatGPT • Cursor • GitHub
+
+**Data:** SQL • Mixpanel • Google Analytics • Postman
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+[![Stats](https://github-readme-stats.vercel.app/api?username=OmerWafaey&show_icons=true&hide_border=true&bg_color=0d1117&text_color=ffffff&title_color=0fa8d9&icon_color=0fa8d9)](https://github.com/OmerWafaey)
+
+</div>
+
+---
+
+## 💬 Let's Talk
+
+<div align="center">
+
+**Interested in:**
+- Building products people actually want
+- HRTech & workforce problems worth solving
+- AI in product workflows
+- Early-stage founder challenges
+
+**Get in touch:**
+
+[LinkedIn](https://linkedin.com/in/omar-wafaey-087b42205/) • [Twitter](https://twitter.com/OmerWafaey) • [Email](mailto:omerwafaey@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+![Views](https://komarev.com/ghpvc/?username=OmerWafaey&style=flat-square)
+
+</div>
