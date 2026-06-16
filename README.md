@@ -94,11 +94,19 @@ Talking to parents and nursery owners every week. Building the core features the
 
 ## 💡 How I Work
 
-- 👥 **Talk to users first** — real conversations, not surveys
-- 📝 **Write specs that prevent disasters** — good requirements save weeks of rework
-- ⚡ **Ship fast, learn faster** — from actual usage, not assumptions
-- 🚀 **Prototype in days, not months** — validate before committing engineering effort
-- 🧠 **Use AI to remove friction, not replace thinking** — AI accelerates discovery, documentation, and prototyping; judgment still comes from me
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="20%">🎤<br/><b>User Interviews</b><br/><sub>Real conversations,<br/>not surveys</sub></td>
+<td align="center" width="20%">📝<br/><b>PRDs & Specs</b><br/><sub>Good requirements<br/>prevent disasters</sub></td>
+<td align="center" width="20%">🔬<br/><b>User Research</b><br/><sub>Validate before<br/>you build</sub></td>
+<td align="center" width="20%">⚡<br/><b>Rapid Prototyping</b><br/><sub>Days, not months</sub></td>
+<td align="center" width="20%">🧠<br/><b>AI-Assisted Workflow</b><br/><sub>Removes friction,<br/>not thinking</sub></td>
+</tr>
+</table>
+
+</div>
 
 <br/>
 
@@ -106,22 +114,27 @@ Talking to parents and nursery owners every week. Building the core features the
 
 <div align="center">
 
+<sub>AI & Product Tools</sub><br/>
 ![Claude](https://img.shields.io/badge/Claude-Thinking%20Partner-0D9488?style=flat-square&logo=anthropic&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-Research-0D9488?style=flat-square&logo=openai&logoColor=white)
 ![Replit](https://img.shields.io/badge/Replit-Rapid%20Prototyping-0D9488?style=flat-square&logo=replit&logoColor=white)
 ![Lovable](https://img.shields.io/badge/Lovable-Vibe%20Coding-0D9488?style=flat-square&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-Build%20Speed-0D9488?style=flat-square&logoColor=white)
-<br/>
-![Figma](https://img.shields.io/badge/Figma-Design-0EA5E9?style=flat-square&logo=figma&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-Plan-0EA5E9?style=flat-square&logo=notion&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-Backlog-0EA5E9?style=flat-square&logo=jira&logoColor=white)
-<br/>
+![Figma](https://img.shields.io/badge/Figma-Design-0D9488?style=flat-square&logo=figma&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-Plan-0D9488?style=flat-square&logo=notion&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-Backlog-0D9488?style=flat-square&logo=jira&logoColor=white)
+
+<br/><sub>Kinderly's Stack</sub><br/>
+![React](https://img.shields.io/badge/React-Frontend-0EA5E9?style=flat-square&logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-Type%20Safety-0EA5E9?style=flat-square&logo=typescript&logoColor=white)
+![Express](https://img.shields.io/badge/Express-Backend-0EA5E9?style=flat-square&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-0EA5E9?style=flat-square&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-Realtime-0EA5E9?style=flat-square&logo=firebase&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-Styling-0EA5E9?style=flat-square&logo=tailwindcss&logoColor=white)
+
+<br/><sub>Infrastructure</sub><br/>
 ![AWS](https://img.shields.io/badge/AWS-Cloud-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-Infra-2496ED?style=flat-square&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Data-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-Backend-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-Frontend-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-Style-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Scripting-3776AB?style=flat-square&logo=python&logoColor=white)
 
 </div>
 
