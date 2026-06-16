@@ -1,236 +1,114 @@
-<div align="center">
+# Hey, I'm Omar 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=0FA8D9&center=true&vCenter=true&width=700&lines=Shipping+HRTech+Products;Product+Owner+%26+Builder;Workforce+%2B+AI+%2B+SaaS;Building+the+Future+of+Work)](https://git.io/typing-svg)
+I'm a product owner and builder working on hard problems in HR and workforce technology. I think deeply about products, write a lot of code-adjacent docs, and use AI to ship faster without sacrificing quality.
 
-</div>
-
----
-
-<div align="center">
-
-[![Banner](https://capsule-render.vercel.app/api?type=waving&color=0fa8d9&height=200&section=header&text=Omar%20Wafaey&fontSize=70&fontColor=ffffff&animation=fadeIn&desc=Building%20AI-Powered%20HRTech%20%7C%20Product%20Owner%20%7C%20Workforce%20Expert&descAlignY=65&descSize=22)](https://github.com/OmerWafaey)
-
-</div>
+Right now, I'm obsessed with **Kinderly** and exploring how AI can make product teams faster.
 
 ---
 
-## 🎯 Currently Building
+## 🚀 Kinderly
 
-**Kinderly** — A platform reimagining how families manage caregiving responsibilities.
+**[kinderly.net](https://kinderly.net)** — The main thing I'm focused on.
 
-<div align="center">
-
-![Status](https://img.shields.io/badge/Status-Active%20Development-0fa8d9?style=flat-square)
-![Focus](https://img.shields.io/badge/Focus-User%20Discovery-0fa8d9?style=flat-square)
-![Phase](https://img.shields.io/badge/Phase-Product%20Validation-0fa8d9?style=flat-square)
-
-</div>
+Kinderly is about making caregiving less chaotic. The reality is millions of people are managing complex care situations—for parents, kids, partners—and the tools available are either nonexistent or terrible.
 
 **What I'm doing:**
-- 🔍 Deep user research in caregiving market
-- 📝 Crafting crystal-clear requirements
-- 🤖 Building AI-assisted workflows for documentation
-- 🚀 Rapid prototyping and validation
+- Talking to people who are actually doing this (deep user research)
+- Understanding the real workflows, not the theoretical ones
+- Building something people actually want to use
+- Writing clear requirements so the team knows exactly what to build
+- Using AI to handle the boring parts (docs, specs, analysis)
+
+**Current focus:** Finding product-market fit through rapid validation and real user feedback.
 
 ---
 
-## 💼 Who I Am
+## What I'm Building
 
-I'm a **Product Owner** who ships products. Not just manages them.
+Beyond Kinderly, I've spent years in the HRTech space understanding what actually matters:
 
-I come from the **HRTech & Workforce Management** space where I've built solutions that impact how millions of people work:
+**Workforce & HR Systems**
+- Built features used by millions in HRMS, payroll, workforce planning
+- Understand the chaos of compliance, data integrity, user adoption
+- Know the difference between what HR *says* they want and what actually solves their problem
 
-- 🏢 **HRMS & Payroll Systems** — Deep understanding of enterprise HR workflows, compliance, data complexity
-- 👥 **Workforce Management** — Scheduling, planning, leave management, real-world operational challenges
-- 📋 **Requirements Engineering** — Translating chaos into executable specs
-- 🔍 **Product Discovery** — Finding signal in user feedback noise
-- 📖 **AI-Assisted Documentation** — Making docs faster, clearer, more useful
+**Requirements That Actually Get Built**
+- I write specs that engineers actually want to build
+- User stories that capture edge cases and real workflows
+- Clear acceptance criteria that prevent back-and-forth
 
-**My Superpower:** I think like an engineer, talk like a designer, and build like a founder.
-
----
-
-## 🚀 What I'm Learning
-
-<table>
-<tr>
-<td width="50%">
-
-### 🤖 Advanced AI Integration
-- Multi-agent systems
-- Claude + Cursor workflows
-- AI-native product patterns
-
-</td>
-<td width="50%">
-
-### 🎯 Founder Skills
-- Scaling user research
-- Building in public
-- Product-market fit signals
-
-</td>
-</tr>
-</table>
+**Product Discovery**
+- I talk to users until I understand the 80/20 of their real problem
+- Rapid prototyping to validate before committing engineering resources
+- Killing ideas that sound good but won't work
 
 ---
 
-## 🎓 Deep Expertise
+## What I'm Learning
 
-### **HRTech & Workforce**
-- HRMS Architecture & UX
-- Payroll Systems Design
-- Workforce Planning & Scheduling
-- Employee Experience
-- Compliance & Data Privacy
-- Leave Management Systems
-- User Adoption & Change Management
+**AI-Native Product Workflows**
+- Using Claude and ChatGPT not as novelty, but as actual tools that make me faster
+- Building product specs 2-3x faster with AI review
+- Prototyping with Cursor to validate ideas before engineering
 
-### **Product Skills**
-- Requirements Engineering (User Stories, Acceptance Criteria, Edge Cases)
-- Product Discovery & Validation
-- Roadmap Strategy & Prioritization
-- Stakeholder Management
-- Rapid Prototyping
+**Founder Skills**
+- How to validate ideas without overbuilding
+- Finding signal in user feedback noise
+- Deciding what to build vs. what to ignore
 
-### **AI & Automation**
-- AI-Assisted Documentation
-- Prompt Engineering
-- Workflow Automation
-- Data Analysis & Insights
-- Intelligent Feature Design
+**Being a Better Product Thinker**
+- When to trust data vs. intuition
+- How to make decisions with incomplete information
+- Why most products fail (spoiler: it's not the idea)
 
 ---
 
-## 🛠️ My Toolkit
+## How I Work
 
-### **Product Thinking**
+I believe in:
 
-<div align="center">
+- **Talk to users first.** Not surveys, not analytics—actual conversations. What are they doing when they use your product?
+- **Write it down.** I love docs, specs, and clarity. Good requirements prevent a thousand bad conversations.
+- **Ship early.** The best learning comes from real users using real product. Not beta. Not focus groups. Real.
+- **Measure what matters.** Not vanity metrics. What's the behavior you actually care about?
+- **Use AI where it helps.** Not because it's cool, but because it removes friction from writing, analyzing, and thinking.
 
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
-![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Miro](https://img.shields.io/badge/Miro-050038?style=flat-square&logo=miro&logoColor=white)
-
-</div>
-
-### **AI & Building**
-
-<div align="center">
-
-![Claude](https://img.shields.io/badge/Claude-1F1F1F?style=flat-square&logo=anthropic&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-00A67E?style=flat-square&logo=openai&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-00D9FF?style=flat-square&logo=visualstudiocode&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-
-</div>
-
-### **Data & Analytics**
-
-<div align="center">
-
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Mixpanel](https://img.shields.io/badge/Mixpanel-1FA0F2?style=flat-square&logoColor=white)
-![Google%20Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=flat-square&logo=google&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-
-</div>
+I'm not interested in:
+- Moving pixels around without understanding user problems
+- Building features because stakeholders ask for them
+- Vanity metrics or false confidence
 
 ---
 
-## 💡 How I Work
+## Toolkit
 
-> **"Great products come from understanding your users obsessively, then building with intention."**
+**Product Thinking:** Jira, Confluence, Notion, Figma  
+**Building & Code:** Claude, ChatGPT, Cursor, GitHub  
+**Data:** SQL, Mixpanel, Google Analytics, Postman  
 
-🔍 **Discover** → Talk to users first. Really listen.  
-📝 **Define** → Write specs so clear engineers say "let's build this."  
-⚡ **Build** → Ship early. Learn fast. Iterate relentlessly.  
-📊 **Measure** → Data validates. Intuition guides.  
-🔄 **Repeat** → The best product is the next version.  
+I use tools that get out of the way. The tool doesn't matter—understanding the problem does.
 
 ---
 
-## 🤖 AI + Products
+## Random Facts
 
-I'm building the next generation of products where **AI handles the grunt work, humans focus on strategy:**
-
-- 📝 **AI-Assisted Specs** — Claude writes 80%, I refine to 100%
-- 🔍 **Intelligent Discovery** — AI synthesizes research, I ask the right questions
-- 🚀 **Rapid Prototyping** — Cursor helps me validate ideas in hours
-- 📊 **Smart Analytics** — AI surfaces insights, I drive decisions
-
-The goal: **Think more. Build faster. Ship better.**
+- I love when a good requirement prevents 10 bad conversations
+- I'm skeptical of "best practices" that haven't been tested in your specific context
+- I think a lot of product management is just clear thinking + good communication
+- I believe AI is going to be table stakes for product teams in 2 years
 
 ---
 
-## 📊 GitHub Activity
+## Let's Talk
 
-<div align="center">
+I'm interested in:
+- Building products people actually want to use
+- HRTech and workforce problems worth solving
+- How AI changes how we do product work
+- Early-stage founder problems and insights
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OmerWafaey&show_icons=true&hide_border=true&bg_color=0d1117&text_color=ffffff&title_color=0fa8d9&icon_color=0fa8d9&count_private=true)](https://github.com/OmerWafaey)
-
-</div>
-
----
-
-## 📚 Featured Work
-
-### **Kinderly** 🚀
-*Reimagining caregiving for families.*
-
-Building in an underserved market with real user pain. Deep user research, rapid validation, AI-assisted documentation.
-
-- **Stage:** Active development & validation
-- **Focus:** User discovery, requirements engineering
-- **Approach:** Lean product methodology
-
-### **HR & Workforce Ecosystems** 👥
-*Building solutions that make work better.*
-
-Deep expertise in HRMS, payroll, workforce management, and employee experience. I've shipped features used by millions.
-
-- **Experience:** HRMS architecture, payroll systems, workforce planning
-- **Value:** Making HR less painful, work more human
-
-### **AI-Powered Product Workflows** 🤖
-*Shipping faster with modern AI.*
-
-Using Claude, ChatGPT, and Cursor to accelerate discovery, prototyping, and documentation without sacrificing quality.
+Reach out: [LinkedIn](https://linkedin.com/in/omar-wafaey-087b42205/) • [Twitter](https://twitter.com/OmerWafaey) • [Email](mailto:omerwafaey@gmail.com)
 
 ---
 
-## 💬 Let's Talk
-
-<div align="center">
-
-**I'm excited about:**
-
-🎯 HRTech innovation & workforce solutions  
-🤖 Building AI into products  
-📱 SaaS product strategy  
-🔍 User discovery & validation  
-⚡ Shipping fast without sacrificing quality  
-
-**Reach out:**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Omar%20Wafaey-0fa8d9?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/omar-wafaey-087b42205/)
-[![Twitter](https://img.shields.io/badge/Twitter-@OmerWafaey-0fa8d9?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/OmerWafaey)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-0fa8d9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omerwafaey@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-
-[![Footer](https://capsule-render.vercel.app/api?type=waving&color=0fa8d9&height=120&section=footer&text=Shipping%20products%20that%20matter&fontSize=18&fontColor=ffffff&animation=fadeIn)](https://github.com/OmerWafaey)
-
-</div>
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=OmerWafaey&style=flat-square&color=0fa8d9)
-
-</div>
+![Profile views](https://komarev.com/ghpvc/?username=OmerWafaey&style=flat-square)
