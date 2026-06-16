@@ -1,10 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D9488,100:0EA5E9&height=200&section=header&text=Omar%20Wafaey&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Product%20Owner%20%C2%B7%20AI%20Product%20Builder%20%C2%B7%20Founder&descAlignY=55&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D9488,100:0EA5E9&height=200&section=header&text=Omar%20Wafaey&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Product%20Owner%20%C2%B7%20AI%20Product%20Builder%20%C2%B7%20SaaS Products&descAlignY=55&descSize=18"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=0D9488&center=true&vCenter=true&width=600&lines=Building+Kinderly+%F0%9F%8C%BF;Product+Owner+at+Brite+HRMS;DevOps+%E2%86%92+Product+%E2%86%92+Founder;I+use+AI+to+ship+products+faster" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=0D9488&center=true&vCenter=true&width=600&lines=Building+Kinderly+%F0%9F%8C%BF;Product+Owner+at+Brite+HRMS;DevOps+%E2%86%92+Product+%E2%86%92+SaaS Products;I+use+AI+to+ship+products+faster" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -86,7 +86,7 @@ Talking to parents and nursery owners every week. Building the core features the
               Led mobile app redesign end-to-end
               Sole product lead for 3+ months — zero sprint failures
 
-2026 ─────●  Founder @ Kinderly
+2026 ─────●  SaaS Products @ Kinderly
               Building the nursery-parent communication layer
 ```
 
