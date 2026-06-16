@@ -2,9 +2,17 @@
 
 # Hey, I'm Omar 👋
 
-**Building Kinderly**
+**Product Owner • Founder • Builder**
 
-*Parents deserve peace of mind. Nurseries deserve communication tools that actually work.*
+<br/>
+
+**I'm building Kinderly because parents deserve <span style="color: #0D9488;">peace of mind</span>, and nurseries deserve tools that make communication <span style="color: #0D9488;">simple</span>.**
+
+</div>
+
+<div align="center">
+
+👥 HRTech Expert &nbsp; • &nbsp; 🤖 AI Enthusiast &nbsp; • &nbsp; 🎯 Problem Solver &nbsp; • &nbsp; 📚 Lifelong Learner
 
 </div>
 
@@ -12,115 +20,173 @@
 
 <div align="center">
 
+## 🌿 KINDERLY
+
+**Nursery-Parent Communication Platform**
+
+Real-time updates • Daily reports • Seamless teacher communication — all in one beautiful platform.
+
 <table>
 <tr>
-<td align="center" width="100%">
+<td align="center">
+<strong>⚡ Real-time Updates</strong><br/>
+Instant notifications and<br/>live activity updates
+</td>
+<td align="center">
+<strong>📋 Daily Reports</strong><br/>
+Beautiful daily summaries<br/>with photos & details
+</td>
+<td align="center">
+<strong>💬 Seamless Communication</strong><br/>
+Direct messaging between<br/>parents and teachers
+</td>
+<td align="center">
+<strong>🔒 Secure & Private</strong><br/>
+Enterprise-grade security<br/>for your peace of mind
+</td>
+</tr>
+</table>
 
-<h2 style="color: #0D9488; margin: 0;">🌿 Kinderly</h2>
-
-**Nursery-Parent Communication, Simplified**
-
-Real-time updates • Daily reports • Seamless teacher communication
+<br/>
 
 <a href="https://kinderly.net">
-  <img src="https://img.shields.io/badge/Visit%20Kinderly-0D9488?style=for-the-badge&logo=link&logoColor=white" alt="Visit Kinderly" />
+  <img src="https://img.shields.io/badge/Visit%20Kinderly%20→-0D9488?style=for-the-badge&logoColor=white&labelColor=0D9488" alt="Visit Kinderly" />
 </a>
-
-<br/><br/>
-
-**Current Focus:** Product-market fit through deep user research & rapid validation
-
-</td>
-</tr>
-</table>
 
 </div>
 
 ---
 
-## What I'm Working On
+## 🚀 What I'm Building Right Now
 
 <table>
 <tr>
-<td align="center" width="33%">
-<h3>🔍 Research</h3>
+<td>
+
+### 🔬 Deep User Research
+Talking to parents & nurseries daily to understand real pain points
 <br/>
-Talking to parents & nurseries daily
-<br/>
-Understanding real pain points
+<img src="https://img.shields.io/badge/71%25-0D9488?style=flat-square" />
+
 </td>
-<td align="center" width="33%">
-<h3>⚡ Build</h3>
+<td>
+
+### ⚡ MVP Development
+Building core features that solve the biggest problems first
 <br/>
-Fast prototyping
-<br/>
-Real user feedback loops
+<img src="https://img.shields.io/badge/54%25-0D9488?style=flat-square" />
+
 </td>
-<td align="center" width="33%">
-<h3>📊 Learn</h3>
+<td>
+
+### 📊 Product Validation
+Testing assumptions and validating with real users
 <br/>
-Iterate based on usage
-<br/>
-Double down on what works
+<img src="https://img.shields.io/badge/38%25-0D9488?style=flat-square" />
+
 </td>
 </tr>
 </table>
 
 ---
 
-## How I Work
+## 💡 How I Work
 
 <div align="center">
 
-**Talk to users first** → Real conversations, not surveys
-
-**Write clear specs** → Good requirements prevent disasters
-
-**Ship fast** → Learning comes from actual usage
-
-**Move quick** → Prototype in days, not months
-
-**Use AI smart** → Remove friction, not replace thinking
+| 👥 | 📝 | 💻 | 🚀 | 🧠 |
+|:---:|:---:|:---:|:---:|:---:|
+| **Talk to<br/>users first** | **Write<br/>clear specs** | **Ship<br/>fast** | **Move<br/>quick** | **Use AI<br/>smart** |
+| Real conversations,<br/>not surveys | Good requirements<br/>prevent disasters | Learning comes from<br/>actual usage | Prototype in days,<br/>not months | Remove friction,<br/>not replace thinking |
 
 </div>
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
-![Claude](https://img.shields.io/badge/Claude-Thinking%20Partner-000?style=flat-square&logo=anthropic&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-Build%20Speed-00D9FF?style=flat-square&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-Design-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-Plan-000?style=flat-square&logo=notion&logoColor=white)
-![SQL](https://img.shields.io/badge/PostgreSQL-Data-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-Thinking%20Partner-0D9488?style=flat-square&logo=anthropic&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-Build%20Speed-0D9488?style=flat-square&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-Design-0D9488?style=flat-square&logo=figma&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-Plan-0D9488?style=flat-square&logo=notion&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Data-0D9488?style=flat-square&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Backend-0D9488?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-Frontend-0D9488?style=flat-square&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-Style-0D9488?style=flat-square&logo=tailwindcss&logoColor=white)
 
 </div>
 
 ---
 
-## GitHub Activity
+## 📊 GitHub at a Glance
 
-<div align="center">
+<table>
+<tr>
+<td width="50%">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OmerWafaey&show_icons=true&hide_border=true&hide=contribs&bg_color=ffffff&text_color=333333&title_color=0D9488&icon_color=0D9488&card_width=400)
+**Total Stars** ⭐<br/>
+1
 
-</div>
+**Total Commits (2024)** 📝<br/>
+6
+
+**Pull Requests** 🔀<br/>
+2
+
+**Issues** 🐛<br/>
+1
+
+</td>
+<td width="50%">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=OmerWafaey&layout=compact&theme=dark&bg_color=0a0e27&text_color=ffffff&title_color=0D9488&border_color=0D9488)
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Let's Connect
+## 💬 Let's Build Something Amazing Together
+
+I'm always excited to connect with fellow builders, product people, and anyone passionate about solving real problems.
 
 <div align="center">
 
-Interested in **founding**, **product**, **HRTech**, or **early-stage challenges**?
+**Interested in:**
+- 🏗️ Founding • Building products people actually want
+- 🎯 Product • Validation, user research, MVP speed
+- 👥 HRTech • Workforce and caregiving challenges
+- 🤖 AI • Using it to move faster without cutting corners
 
 <br/>
 
-[**LinkedIn**](https://linkedin.com/in/omar-wafaey-087b42205/) • [**Twitter**](https://twitter.com/OmerWafaey) • [**Email**](mailto:omerwafaey@gmail.com)
+<a href="https://linkedin.com/in/omar-wafaey-087b42205/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0D9488?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>&nbsp;
+<a href="https://twitter.com/OmerWafaey">
+  <img src="https://img.shields.io/badge/Twitter-Follow-0D9488?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+</a>&nbsp;
+<a href="mailto:omerwafaey@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Say%20Hi-0D9488?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>&nbsp;
+<a href="https://kinderly.net">
+  <img src="https://img.shields.io/badge/Kinderly-Visit-0D9488?style=for-the-badge&logo=link&logoColor=white" alt="Visit Kinderly" />
+</a>
 
-<br/><br/>
+</div>
+
+---
+
+<div align="center">
+
+> "The best products come from understanding users deeply and building with intention." — Omar
+
+<br/>
+
+Thanks for stopping by! ⭐ Star some repos if you find them useful.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=OmerWafaey&style=flat-square&color=0D9488)
 
